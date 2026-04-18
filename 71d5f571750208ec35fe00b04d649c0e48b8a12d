@@ -1,0 +1,23 @@
+po/documentation.fr.po
+  733be74426bcff03 79240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "71d5f571750208ec35fe00b04d649c0e48b8a12d",
+  "prompts": {
+    "733be74426bcff03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98665259-4745-4cca-beff-ee5461bac639",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tycho Tatitscheff",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
